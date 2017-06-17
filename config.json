@@ -1,0 +1,7 @@
+{
+	"session_timeout_sec" : 2,
+	"prefix_len" : 10,
+	"retry_delay_sec" : 5,
+	"offset" : 10000,
+	"notification_mode" : "INVALIDATION"
+}
